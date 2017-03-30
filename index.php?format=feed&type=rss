@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Oikos - Arquitetura em Acabamentos</title>
+		<description>Oikos Acabamentos</description>
+		<link>http://oikosacabamentos.arq.br/index.php/component/content/frontpage</link>
+		<lastBuildDate>Wed, 01 Mar 2017 12:56:02 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>pt-br</language>
+		<item>
+			<title>Enderecos</title>
+			<link>http://oikosacabamentos.arq.br/index.php/component/content/article/49-enderecos</link>
+			<guid>http://oikosacabamentos.arq.br/index.php/component/content/article/49-enderecos</guid>
+			<description><![CDATA[<table width="100%" border="0" cellpadding="1" cellspacing="1">
+    <tbody>
+        <tr>
+            <td>
+            <p style="line-height: 21px;">&nbsp;<strong style="line-height: normal;"><span style="font-size: 18px;"><span style="font-family: Tahoma;">Oikos Arquitetura em Acabamentos&nbsp;</span></span></strong></p>
+            <div><span style="font-size: 18px;"><span style="font-family: Tahoma;">Rua Barão do Jaraguá - 562</span></span></div>
+            <div><span style="font-size: 18px;"><span style="font-family: Tahoma;">Jaraguá - Maceió-AL</span></span></div>
+            <div><span style="font-size: 18px;"><span style="font-family: Tahoma;">Cep.:&nbsp;57022140</span></span></div>
+            <div><span style="font-size: 18px;"><span style="font-family: Tahoma;">Telefone: 82 33134461</span></span></div>
+            </td>
+            <td>
+            <div>&nbsp;<span style="font-family: Tahoma; font-size: 11px; text-align: center; line-height: 21px;"></span></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>]]></description>
+			<author>abel@abeldecastro.com.br (Abel de Castro)</author>
+			<category>frontpage</category>
+			<pubDate>Tue, 02 Jul 2013 03:10:29 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
