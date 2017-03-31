@@ -1,0 +1,6 @@
+.pwebfblikebox.slidebox, .pwebfblikebox.sidebar {
+	behavior:url("/modules/mod_pwebfblikebox/css/PIE.htc");
+}
+.pwebfblikebox_tab {
+	behavior:url("/modules/mod_pwebfblikebox/css/PIE.htc");
+}

@@ -1,0 +1,35 @@
+
+.ckformMOD {
+	margin-top: 0px;
+}
+
+
+.ckformMOD .ckCSSlabel {
+	float: none;
+	margin-top: 5px;
+	width: 100%;
+}
+
+.ckformMOD .ckCSSinputnormal, .ckformMOD .ckCSSinputnowidth {
+	float: none;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	display: inline;
+	vertical-align: middle;
+}
+
+.ckformMOD .ui-datepicker-trigger {
+	margin-top: 0px;
+}
+
+.ckformMOD .ckformMOD div.error {
+	font-size:0.83em;
+}
+
+.ckformMOD .ckCSSnoTip {width: 97%;}
+.ckformMOD .ckCSSTip, .ckformMOD .hasDatepicker {width: 84%;}
+
+.ckformMOD .ckform_tooltip {
+	margin-top: 0px;
+	margin-left: 2px;
+}

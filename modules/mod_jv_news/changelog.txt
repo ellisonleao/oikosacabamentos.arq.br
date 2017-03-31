@@ -1,0 +1,22 @@
+Name: JV News
+Author: ZooTemplate
+CreationDate: April 2010
+Copyright (c) 2008 - 2009 ZooTemplate. All rights reserved.
+AuthorURL: http://www.ZooTemplate.com/
+Description: JV News module by ZooTemplate
+---------------------------------------------------------
+CHANGE LOG:
+
+Legend:
+
+# -> Bug Fix
+$ -> Language fix or change
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note
+
+------------ 1.5.3 Release [14-July-2010] ------------
+14-July-2010 Chiennd
++ Fix bug link article in slideshow incorrect
+^ Change fully tag <?php instead of <? 

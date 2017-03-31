@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+     <name>JV News</name>
+     <author>ZooTemplate</author>
+     <creationDate>14 July, 2010</creationDate>
+     <copyright>ZooTemplate.Com</copyright>
+     <authorEmail>support@ZooTemplate.com</authorEmail>
+     <authorUrl>www.ZooTemplate.com</authorUrl>
+     <version>1.5.3</version>
+     <description>JV News allows you display previews of articles on the front page</description>
+     <files>
+	 <filename module="mod_jv_news">mod_jv_news.php</filename>		  
+		<filename>helper.php</filename>
+		<filename>thumbnail.inc.php</filename> 
+		<filename>jvnews_ajax.php</filename>
+		<filename>changelog.txt</filename>
+		<filename>ajax.php</filename>	
+		<filename>index.html</filename>	
+		<folder>assets/</folder>
+		<folder>tmpl/</folder>	
+		<folder>elements/</folder>		
+	 </files> 
+     <languages>
+		    <language tag="en-GB">en-GB.mod_jv_news.ini</language>
+	  </languages> 	
+  <params addpath="/modules/mod_jv_news/elements/">      	
+    <param name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />      
+	  <param name="template_type" type="folderlist" label="Select template" description="Select template" directory="/modules/mod_jv_news/tmpl" hide_default="1" hide_none="1" />
+    <param name="categories" type="categories" label="Category" description="Category" />
+    <param name="cat_ordering" default="1" type="list" label="Category Ordering" description="Category Ordering">     
+      <option value="1">Title Alphabetical</option>
+      <option value="2">Title Reverse - Alphabetical </option>
+      <option value="3">Order</option>
+    </param>
+	<param name="no_intro_items" type="text" default="1" label="Number Of Intro Items" description="Number Of Intro Items" />
+    <param name="no_link_items" type="text" default="2" label="Number Of Link Items" description="Number Of Link Items" /> 
+    <param name="is_image" type="radio" default="1" label="Show Image" description="Show image">
+      <option value="0">Hide</option>
+      <option value="1">Show</option>
+    </param>
+	<param name="img_align" type="list" default="left" label="Image Align" description="Image Algin">
+      <option value="left">Left</option>
+      <option value="right">Right</option>
+    </param>
+	<param name="show_readmore" type="radio" default="0" label="Show Readmore" description="Show Readmore">
+      <option value="0">Hide</option>
+      <option value="1">Show</option>
+    </param>  
+    <param name="v_section" type="vsection" label="Section" description="Section" />
+	<param name="v_section_orderding" default="1" type="list" label="Section Ordering" description="Section Ordering">
+		<option value="1">Title Alphabetical</option>
+      	<option value="2">Title Reverse - Alphabetical </option>
+      	<option value="3">Order Descending</option>
+		<option value="4">Order Ascending</option>
+	</param>
+	 <param name="v_no_latest_item" type="text" default="3" label="Number latest item of section" description="No latest item of section" />
+    <param name="v_no_link_item" type="text" default="5" label="Number of link items" description="Number of link items" />
+    <param name="v_min_item" type="text" default="1" label="Min items in each category" description="Min items in each category" />
+    <param name="v_max_item" type="text" default="5" label="Max items in each category" description="Max items in each category" />
+  	<param name="v_default_item" type="text" default="3" label="Default items in each category" description="Default items in each category" />
+	<param name="columns" type="list" default="2" label="Number Of Column" description="Number Of Column">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+	</param>    
+    <param name="image_width" type="text" default="100" label="Image Width" description="Image width" />
+    <param name="image_height" type="text" default="65" label="Image Height" description ="Image Height" />     
+    <param name="intro_length" type="text" default="30" label="Intro Text Length" description="Intro text length" />     
+  </params>		
+	<params group="advanced">
+	<param name="cache" type="list" default="0" label="Caching" description="Select whether to cache the content of this module">
+		<option value="1">Use global</option>
+		<option value="0">No caching</option>
+	</param>
+	<param name="cache_time" type="text" default="900" label="Cache Time" description="The time before the module is recached" />
+	</params>
+</install>

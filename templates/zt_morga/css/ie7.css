@@ -1,0 +1,24 @@
+/*Search*/
+#zt-search .search .inputbox{float:left;margin: 3px 0px 0px 5px;}
+#zt-search .search .button-search{float:left;}
+
+/*Menu*/
+.rtl .news-events .article-item li a {
+  float:right;	
+  background: url("../images/rtl_bullet.png") no-repeat right 10px !important;
+  padding: 0 !important;
+}
+.rtl .news-events .article-item li a span{
+  margin-right: 15px !important;
+}
+.rtl #zt-userwrap2 .zt-user .zt-box-inside ul li a {
+  background: url("../images/rtl_bullet.png") no-repeat right 13px;
+  padding: 0 !important;
+  float:right;
+}
+.rtl  #zt-userwrap2 .zt-user .zt-box-inside ul li a span{
+  margin-right: 15px !important;
+  float:right;
+  
+}
+

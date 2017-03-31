@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.12">
+	<name> CKforms Form Display</name>
+	<author>info@cookex.eu</author>
+	<creationDate>20/09/2009</creationDate>
+	<copyright>Copyright (C) 2009 Cookex agency. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@cookex.eu</authorEmail>
+	<authorUrl>ckforms.cookex.eu</authorUrl>
+	<version>1.3.3</version>
+	<description><![CDATA[
+	<p>Thank you for the installation of CK Forms 1.3.3 Module</p>
+	If you have any problems, contact <a href=\"mailto:info@cookex.eu\">info@cookex.eu</a><br/>
+	Visit the <a href=\"http://ckforms.cookex.eu\">CK Form web site</a> for the lastest news 
+	and update.<br/><br/>
+	]]></description>
+	<files>
+		<filename module="mod_ckforms">mod_ckforms.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+		<filename>css/ckforms.css</filename>
+	</files>
+	<params addpath="/administrator/components/com_ckforms/elements">
+		<param name="id" type="ckforms" default="" label="Select CK forms" description="The CK forms to display" />
+		<param name="displaytitle" type="radio" default="1" label="Display form title" description="Display form title">
+ 			<option value="1">YES</option>
+			<option value="0">NO</option>
+ 		</param>
+		<param name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
+	</params>
+	<params group="advanced">
+	</params>
+</install>
