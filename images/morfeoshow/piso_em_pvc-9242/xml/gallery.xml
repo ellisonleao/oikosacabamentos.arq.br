@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="900" maxImageHeight="900" textColor="0x333333" frameColor="0x999999" frameWidth="0" stagePadding="0" navPadding="40" thumbnailColumns="6" thumbnailRows="2" navPosition="bottom" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="http://localhost/oikos/images/morfeoshow/piso_em_pvc-9242/big/" thumbPath="http://localhost/oikos/images/morfeoshow/piso_em_pvc-9242/thumbs/">
+<image>
+<filename>EPISO1.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>EPISO2.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>EPISO3.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>EPISO4.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>EPISO5.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+</simpleviewergallery>

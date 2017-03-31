@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="900" maxImageHeight="900" textColor="0x333333" frameColor="0x999999" frameWidth="0" stagePadding="0" navPadding="40" thumbnailColumns="6" thumbnailRows="2" navPosition="bottom" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="http://localhost/oikos/images/morfeoshow/espelhos_e_m-3577/big/" thumbPath="http://localhost/oikos/images/morfeoshow/espelhos_e_m-3577/thumbs/">
+<image>
+<filename>SantaLuzia_EspelhoBranco.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>SantaLuzia_EspelhoDourado.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>SantaLuzia_EspelhoPrata.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>SantaLuzia_EspelhoVermelho.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>SantaLuzia_PortaRetratos.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+<image>
+<filename>SantaLuzia_PortaRetratos2.jpg</filename>
+<caption><![CDATA[]]></caption>
+</image>
+</simpleviewergallery>

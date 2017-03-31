@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="900" maxImageHeight="900" textColor="0x333333" frameColor="0x999999" frameWidth="0" stagePadding="0" navPadding="40" thumbnailColumns="6" thumbnailRows="2" navPosition="bottom" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="http://localhost/oikos/images/morfeoshow/madeirados-7119/big/" thumbPath="http://localhost/oikos/images/morfeoshow/madeirados-7119/thumbs/">
+<image>
+<filename>CEUSA1.JPG</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Legno Extint &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA10.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Imbuia Castanho &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA2.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Vecchio &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA3.jpg</filename>
+<caption><![CDATA[<p>Linha: Ladrilho Mediterrâneo e Legno Extint &ndash; Ceusa&nbsp;</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA4.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Filetado Branco e Legno Extint &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA5.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Legno Extint Decapê &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA6.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Filetado Extint &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA7.JPG</filename>
+<caption><![CDATA[<p>Linha: Imbuia Castanho &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA8.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Legno Extint &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>CEUSA9.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Legno Extint &ndash; Ceusa</p>]]></caption>
+</image>
+<image>
+<filename>INCEPA_Rovere.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Rovere &ndash; Incepa</p>]]></caption>
+</image>
+<image>
+<filename>INCEPA_Wood.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Wood &ndash; Incepa</p>]]></caption>
+</image>
+<image>
+<filename>ROCA_Madero.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha Madero &ndash; Roca</p>]]></caption>
+</image>
+<image>
+<filename>ROCA_Savia.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Savia &ndash; ROCA</p>]]></caption>
+</image>
+<image>
+<filename>TECNOGRES1.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Madeira Laminada &ndash; Tecnogrés</p>]]></caption>
+</image>
+<image>
+<filename>TECNOGRES2.jpg</filename>
+<caption><![CDATA[<p>&nbsp;Linha: Madeira Deck Mogno &ndash; Tecnogrés</p>]]></caption>
+</image>
+</simpleviewergallery>
